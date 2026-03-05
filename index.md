@@ -264,7 +264,7 @@ Arthur Fleig is a junior research group leader at <a href="https://scads.ai">Sca
 ## Patrick Ebel
 
 <div class="organiser-photo">
-   <img src="{{ site.url }}{{ site.baseurl }}/assets/patrick-ebel.png" alt="Patrick Ebel">
+   <img src="{{ site.url }}{{ site.baseurl }}/assets/patrick-ebel.jpg" alt="Patrick Ebel">
 </div>
 
 Patrick Ebel is Assistant Professor for Computational Interaction at <a href="https://hpi.de/en/">Hasso Plattner Institute</a>. His research focuses on data-driven and RL-based user models for simulating human-computer interaction to design technology that is easy and safe to use.
