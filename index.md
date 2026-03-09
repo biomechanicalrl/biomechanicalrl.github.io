@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Motivation
+
 
 Imagine testing hundreds of interaction designs for an XR application overnight—taking into account criteria that you deem important, such as physical toll, accuracy, and speed. Future biomechanical simulations could offer these possibil ities: acting as “virtual crash test dummies,” reinforcement learning (RL) agents controlling musculoskeletal models in physics-based interaction environments can already predict interaction behaviour and movement strategies to guide interaction design. “Simulated users,” i.e., biomechanical models of the upper or full body with muscles controlled via a pre-trained sensorimotor policy, have achieved remarkable performance across core HCI tasks, including mid-air pointing, keyboard typing, and mobile touch.
 
